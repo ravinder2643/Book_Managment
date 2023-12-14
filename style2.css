@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-size: medium;
 }
-
+/* css to container */
 .container{
     padding: 20px;
     height: 100%;
@@ -13,14 +13,14 @@
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: greenyellow;
+    background-color: rgb(234, 176, 221);
 }
 
 
 
 .heading{
     font-size: 50px;
-    color: blue;
+    color: rgb(161, 161, 232);
 }
 
 .searchBox{
